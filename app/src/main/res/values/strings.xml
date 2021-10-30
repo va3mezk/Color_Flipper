@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ColorFlipper</string>
+    <string name="hex_tv">#61D165</string>
+    <string name="info_tv">Press the button bellow to generate new colors </string>
+    <string name="info_bv">GENERATE NEW COLOR</string>
+</resources>
